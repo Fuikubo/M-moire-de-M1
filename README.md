@@ -1,6 +1,6 @@
-# Mémoire de M1 – Analyse des dépenses en R&D et de la productivité des brevets IA
+# Mémoire de M1 – Analyse de l'optimisation des dépenses en R&D aux US à l'ère de l'IA 
 
-Ce dépôt regroupe l'ensemble des données, du notebook Python et du document PDF utilisés pour la rédaction d'un mémoire de Master 1. L'étude s'intéresse aux dépenses de recherche et développement (DIRD) aux États‑Unis ainsi qu'à la dynamique des brevets liés à l'intelligence artificielle.
+Ce dépôt regroupe l'ensemble des données, du notebook Python et du document PDF utilisés pour la rédaction d'un mémoire de Master 1. L'étude s'intéresse à Analyse de l'optimisation des dépenses en R&D aux US à l'ère de l'IA notamment au travers des dépenses de recherche et développement (DIRD) aux États‑Unis ainsi qu'à la dynamique des brevets liés à l'intelligence artificielle.
 
 ## Contenu du dépôt
 
